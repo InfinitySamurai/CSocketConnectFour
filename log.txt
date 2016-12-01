@@ -1,0 +1,35 @@
+[Sun May 24 12:11:38 2015]Server started
+[Sun May 24 12:11:41 2015](127.0.0.1) Client has connected
+[Sun May 24 12:11:44 2015](127.0.0.1) Client has connected
+[Sun May 24 12:11:46 2015](127.0.0.1)(soc_id 4) client's move = 4
+[Sun May 24 12:11:46 2015](0.0.0.0) server's move = 2
+[Sun May 24 12:11:48 2015](127.0.0.1)(soc_id 4) client's move = 5
+[Sun May 24 12:11:48 2015](0.0.0.0) server's move = 7
+[Sun May 24 12:11:50 2015](127.0.0.1)(soc_id 4) client's move = 6
+[Sun May 24 12:11:50 2015](0.0.0.0) server's move = 3
+[Sun May 24 12:11:51 2015](127.0.0.1)(soc_id 4) client's move = 2
+[Sun May 24 12:11:51 2015](0.0.0.0) server's move = 2
+[Sun May 24 12:11:53 2015](127.0.0.1)(soc_id 4) client's move = 3
+[Sun May 24 12:11:53 2015](0.0.0.0) server's move = 3
+[Sun May 24 12:12:00 2015](127.0.0.1)(soc_id 5) client's move = 5
+[Sun May 24 12:12:00 2015](0.0.0.0) server's move = 1
+[Sun May 24 12:12:02 2015](127.0.0.1)(soc_id 5) client's move = 5
+[Sun May 24 12:12:02 2015](0.0.0.0) server's move = 5
+[Sun May 24 12:12:04 2015](127.0.0.1)(soc_id 5) client's move = 4
+[Sun May 24 12:12:04 2015](0.0.0.0) server's move = 1
+[Sun May 24 12:12:05 2015](127.0.0.1)(soc_id 5) client's move = 6
+[Sun May 24 12:12:06 2015](0.0.0.0) server's move = 3
+[Sun May 24 12:12:14 2015](127.0.0.1)(soc_id 4) client's move = 6
+[Sun May 24 12:12:14 2015](0.0.0.0) server's move = 2
+[Sun May 24 12:12:17 2015](127.0.0.1)(soc_id 4) client's move = 6
+[Sun May 24 12:12:17 2015](0.0.0.0) server's move = 6
+[Sun May 24 12:12:24 2015](127.0.0.1)(soc_id 4) client's move = 7
+[Sun May 24 12:12:24 2015](0.0.0.0) server's move = 3
+[Sun May 24 12:12:30 2015](127.0.0.1)(soc_id 4) client's move = 7
+[Sun May 24 12:12:30 2015](0.0.0.0) server's move = 3
+[Sun May 24 12:12:34 2015](127.0.0.1)(soc_id 4) client's move = 5
+[Sun May 24 12:12:34 2015](0.0.0.0) server's move = 3
+[Sun May 24 12:12:35 2015]Game is over, someone won or the game failed. code: 7
+[Sun May 24 12:12:38 2015](127.0.0.1)(soc_id 5) client's move = 7
+[Sun May 24 12:12:38 2015]Game is over, someone won or the game failed. code: 5
+[Sun May 24 12:13:22 2015](127.0.0.1) Client has connected

@@ -1,0 +1,26 @@
+Russell Long
+longr
+576494
+
+
+1. By sending the item that is being signed, with the signed version of
+that item, an interceptor would be able to reverse the signing process very
+easily followed by testing if the key they found matches the decryption used
+by the public key. This can then be used to send messages while pretending to
+be the original person using their private key.
+
+2. Compression works by finding patterns in the files that are being compressed so that they can then be represented in a shorter form. Encryption attempts to form the data into something that has very few patterns. Therefore, if you encrpyt data before you compress it, there are going to be few patterns for the compression to use, and thus it is a better option to compress, followed by encrypting.
+
+3. a) 	number of combinations = 2^128
+		number of tests a second = 1*10^6
+		time = 2^128/10^6 (seconds)
+		= 1*10^25 years
+
+	b)	as above, combinations = 2^256
+		time = 3.67*10^63 years
+
+	c)	milliseconds in a day = 8640000 = number of possible keys
+		8640000/10^6 = 8.64 seconds
+
+	d) 	milliseconds in a millenium = 3.1536*10^13
+		3.1536*10^13 / 10^6 = 31536000 seconds = 1 year
